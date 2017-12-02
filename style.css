@@ -33,7 +33,12 @@ p {
   font-weight: 100;
 }
 
-.center {
+li {
+  color: #ffffff;
+  font-weight: 100;
+}
+
+/*.center {
   align-content: center;
 }
 
@@ -43,4 +48,4 @@ p {
 
 .left {
   text-align: left;
-}
+}*/
