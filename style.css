@@ -1,0 +1,31 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1494153695676-b3d8a5219535?auto=format&fit=crop&w=1950&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+h3 {
+  color: #ffffff;
+  font-family: 'Lobster', cursive;
+}
+
+h4 {
+  font-family: 'Lobster', cursive;
+  color: #ffffff;
+
+}
+
+p {
+  color: #ffffff;
+  font-weight: lighter;
+}
