@@ -30,12 +30,16 @@ h4 {
 
 p {
   color: #ffffff;
-  font-weight: 100;
+  /* font-weight: 50; */
+  font-family: cursive;
+
 }
 
 li {
   color: #ffffff;
-  font-weight: 100;
+  /* font-weight: 50; */
+  font-family: cursive;
+
 }
 
 /*.center {
